@@ -103,7 +103,7 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 
 ## 🗺️ Visitor Map
 ---
-<div style="text-align:center; margin-top:-2em; transform-origin: top center; transform: scale(0.50);">
+<div style="text-align:center; margin-top:0.5em; transform-origin: top center; transform: scale(0.50);">
   <script type="text/javascript" id="clustrmaps"
     src="//clustrmaps.com/map_v2.js?d=ETd_kxENrBa0t-iIjDyK3Y8ypI7I4Vn9N0MFXso1OjM&cl=ffffff&w=a">
   </script>
