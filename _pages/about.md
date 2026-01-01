@@ -73,7 +73,6 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 - **National Competitive Innovation Challenge – Grand Prize** *(Top 5)*, Team Leader ( [Page](https://mp.weixin.qq.com/s/1WJexSk9zbB_pe2E9F3-Zw) )
 - **National Cybersecurity Innovation Competition – Third Prize**, Team Leader ( [Page](https://mp.weixin.qq.com/s/EI3OC8F70zXwIF2bF04Vzw) )
 
-
 <section id="professional-services"></section>
 ## 🎓 Professional Services
 ---
@@ -94,11 +93,9 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 - *Sep. 2026 - Aug. 2030 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://scholar.google.com.hk/citations?user=N3DjoZYAAAAJ&hl=zh-CN&oi=ao)
 - *Sep. 2023 - june 2026*, Master of Cyberspace Security, Huazhong University of Science and Technology, Supervisor: [Prof. Man Zhou](https://scholar.google.com.hk/citations?user=E7MXjIAAAAAJ&hl=zh-CN&oi=ao)
 
-
 <!-- <section id="invited-talks"></section>
 ## 💬 Invited Talks
 --- -->
-
 
 ## 🗺️ Visitor Map
 ---
