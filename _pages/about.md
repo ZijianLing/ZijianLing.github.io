@@ -57,8 +57,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
   **Zijian Ling**, Wenyu Zhou, Yi Ouyang, Yuting Zhou, Man Zhou.  
   In ***ICME'25**: IEEE International Conference on Multimedia and Expo, 2025.* ( [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11210162) )
 - **CapHandAuth: Robust and Anti-spoofing Hand Authentication via COTS Capacitive Touch-screens**  
-  Xiaojing Zhu, Man Zhou, Xiaoxiao Qiao, **Zijian Ling**,  
-  Qin Liu, Houzheng Wang, Xiaojing Ma, Zhengxiong Li.  
+  Xiaojing Zhu, Man Zhou, Xiaoxiao Qiao, **Zijian Ling**, Qin Liu, Houzheng Wang, Xiaojing Ma, Zhengxiong Li.  
   In ***SenSys'25**: ACM Conference on Embedded Networked Sensor Systems, 2025.* ( [PDF](https://dl.acm.org/doi/pdf/10.1145/3715014.3722046) )
 ### 📑 Other Publications
 - [China Patent] **凌子健**, 周满, 翟竑达, 王连淼, 陈鑫源, 伪造语音识别方法、装置、电子设备及计算机存储介质, Patent Application Number: CN 202511329903.9, Application Date: Oct 2025
