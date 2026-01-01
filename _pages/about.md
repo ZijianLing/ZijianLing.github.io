@@ -100,7 +100,7 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 ## 🗺️ Visitor Map
 ---
 <div style="text-align:center;">
-  <div style="height:220px; overflow:hidden;">
+  <div style="height:260px; overflow:hidden;">
     <div style="transform:scale(0.5); transform-origin:top center;">
       <script
         id="clustrmaps"
