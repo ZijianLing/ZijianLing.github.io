@@ -46,18 +46,18 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 <section id="publications"></section>
 ## 📝 Publications
 ---
-
+*(\* : Equal Contribution, ˆ : Corresponding Author)*
 - **Sirens’ Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**  
-  **Zijian Ling**, Pingyi Hu, Xiuyong Gao, Xiaojing Ma, Man Zhou, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu.  
+  **Zijian Ling\***, Pingyi Hu\*, Xiuyong Gao\*, Xiaojing Maˆ, Man Zhouˆ, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu.  
   In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [To Appear](#) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhou, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
   *arXiv, TIFS under review.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
 - **Enhancing Data-Free Substitute Training for Black-Box Adversarial Attacks**  
-  **Zijian Ling**, Wenyu Zhou, Yi Ouyang, Yuting Zhou, Man Zhou.  
+  **Zijian Ling**, Wenyu Zhou, Yi Ouyang, Yuting Zhou, Man Zhouˆ.  
   In ***ICME'25**: IEEE International Conference on Multimedia and Expo, 2025.* ( [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11210162) )
 - **CapHandAuth: Robust and Anti-spoofing Hand Authentication via COTS Capacitive Touch-screens**  
-  Xiaojing Zhu, Man Zhou, Xiaoxiao Qiao, **Zijian Ling**, Qin Liu, Houzheng Wang, Xiaojing Ma, Zhengxiong Li.  
+  Xiaojing Zhu\*, Man Zhou\*ˆ, Xiaoxiao Qiao, **Zijian Ling**, Qin Liuˆ, Houzheng Wang, Xiaojing Ma, Zhengxiong Li.  
   In ***SenSys'25**: ACM Conference on Embedded Networked Sensor Systems, 2025.* ( [PDF](https://dl.acm.org/doi/pdf/10.1145/3715014.3722046) )
 ### 📑 Other Publications
 - [China Patent] **凌子健**, 周满, 翟竑达, 王连淼, 陈鑫源, 伪造语音识别方法、装置、电子设备及计算机存储介质, Patent Application Number: CN 202511329903.9, Application Date: Oct 2025
