@@ -60,12 +60,12 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
   Xiaojing Zhu\*, Man Zhou\*ˆ, Xiaoxiao Qiao, **Zijian Ling**, Qin Liuˆ, Houzheng Wang, Xiaojing Ma, Zhengxiong Li.  
   In ***SenSys'25**: ACM Conference on Embedded Networked Sensor Systems, 2025.* ( [PDF](https://dl.acm.org/doi/pdf/10.1145/3715014.3722046) )
 ### 📑 Other Publications
-- [China Patent] 伪造语音识别方法、装置、电子设备及计算机存储介质
-  **凌子健**, 周满, 翟竑达, 王连淼, 陈鑫源, CN121075366A
-- [China Patent] 基于隐式步态行为的无人机投递双向认证方法及装置
-  周满, **凌子健**, 翟竑达, 黄雅婷, 石欣月, 欧阳毅, CN119865812B
-- [China Patent] 一种基于高频声信号混合的语音隐私保护方法及装置
-  周满, 李宏伟, 徐鹏, 马晓静, **凌子健**, 陈林昊, CN119864051B
+- [China Patent] 伪造语音识别方法、装置、电子设备及计算机存储介质  
+  **凌子健**, 周满, 翟竑达, 王连淼, 陈鑫源, CN121075366A  
+- [China Patent] 基于隐式步态行为的无人机投递双向认证方法及装置  
+  周满, **凌子健**, 翟竑达, 黄雅婷, 石欣月, 欧阳毅, CN119865812B  
+- [China Patent] 一种基于高频声信号混合的语音隐私保护方法及装置  
+  周满, 李宏伟, 徐鹏, 马晓静, **凌子健**, 陈林昊, CN119864051B  
 
 <section id="honors-and-awards"></section>
 ## 🎖 Honors & Awards
@@ -75,6 +75,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 - **Outstanding Graduate**, 2023
 - **National Competitive Innovation Challenge – Grand Prize** *(Top 5)*, Team Leader ( [Page](https://mp.weixin.qq.com/s/1WJexSk9zbB_pe2E9F3-Zw) )
 - **National Cybersecurity Innovation Competition – Third Prize**, Team Leader ( [Page](https://mp.weixin.qq.com/s/EI3OC8F70zXwIF2bF04Vzw) )
+- **National Cybersecurity Challenge - Third Prize**, Team Leader
 
 <section id="professional-services"></section>
 ## 🎓 Professional Services
