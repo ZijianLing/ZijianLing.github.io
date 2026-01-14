@@ -60,9 +60,9 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
   Xiaojing Zhu\*, Man Zhou\*ˆ, Xiaoxiao Qiao, **Zijian Ling**, Qin Liuˆ, Houzheng Wang, Xiaojing Ma, Zhengxiong Li.  
   In ***SenSys'25**: ACM Conference on Embedded Networked Sensor Systems, 2025.* ( [PDF](https://dl.acm.org/doi/pdf/10.1145/3715014.3722046) )
 ### 📑 Other Publications
-- [China Patent] **凌子健**, 周满, 翟竑达, 王连淼, 陈鑫源, 伪造语音识别方法、装置、电子设备及计算机存储介质, Patent Application Number: CN 202511329903.9, Application Date: Oct 2025
-- [China Patent] 周满, **凌子健**, 翟竑达, 黄雅婷, 石欣月, 欧阳毅, 基于隐式步态行为的无人机投递双向认证方法及装置, Patent Application Number: CN 202411902923.6, Application Date: Dec 2024
-- [China Patent] 周满, 李宏伟, 徐鹏, 马晓静, **凌子健**, 陈林昊, 一种基于高频声信号混合的语音隐私保护方法及装置, Patent Application Number: CN 202411902920.2, Application Date: Dec 2024
+- [China Patent] **凌子健**, 周满, 翟竑达, 王连淼, 陈鑫源, 伪造语音识别方法、装置、电子设备及计算机存储介质, CN121075366A
+- [China Patent] 周满, **凌子健**, 翟竑达, 黄雅婷, 石欣月, 欧阳毅, 基于隐式步态行为的无人机投递双向认证方法及装置, CN119865812B
+- [China Patent] 周满, 李宏伟, 徐鹏, 马晓静, **凌子健**, 陈林昊, 一种基于高频声信号混合的语音隐私保护方法及装置, CN119864051B
 
 <section id="honors-and-awards"></section>
 ## 🎖 Honors & Awards
