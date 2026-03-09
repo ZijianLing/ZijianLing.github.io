@@ -52,7 +52,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
   In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [To Appear](#) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhou, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
-  *arXiv, TIFS under review.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
+  *arXiv, TDSC under review.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
 - **Enhancing Data-Free Substitute Training for Black-Box Adversarial Attacks**  
   **Zijian Ling**, Wenyu Zhou, Yi Ouyang, Yuting Zhou, Man Zhouˆ.  
   In ***ICME'25**: IEEE International Conference on Multimedia and Expo, 2025.* ( [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11210162) )
@@ -70,12 +70,12 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 <section id="honors-and-awards"></section>
 ## 🎖 Honors & Awards
 ---
-- **China National Scholarship** *(Top 1%)*, Ministry of Education of PRC, 2025
+- **China National Scholarship** *(Rank 2, Top 1%)*, Ministry of Education of PRC, 2025
 - **First Prize of University Scholarship** ×4 *(Top 5%)*, 2021–2025
 - **Outstanding Graduate**, 2023
 - **National Competitive Innovation Challenge – Grand Prize** *(Top 5)*, Team Leader ( [Page](https://mp.weixin.qq.com/s/1WJexSk9zbB_pe2E9F3-Zw) )
 - **National Cybersecurity Innovation Competition – Third Prize**, Team Leader ( [Page](https://mp.weixin.qq.com/s/EI3OC8F70zXwIF2bF04Vzw) )
-- **National Cybersecurity Challenge - Third Prize**, Team Leader
+- **National Cybersecurity Challenge Competition - Third Prize**, Team Leader
 
 <section id="professional-services"></section>
 ## 🎓 Professional Services
@@ -83,8 +83,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 I sincerely appreciate the opportunity to contribute to the academic community through program organization and peer review.
 
 ### Conference
-- **Reviewer:** ICME'26
-- **External Reviewer:** IWQoS'25, ICDCS'24
+- **External Reviewer:** ICME'26, IWQoS'25, ICDCS'24
 
 ### Journal
 - **TDSC** (IEEE Transactions on Dependable and Secure Computing) 
