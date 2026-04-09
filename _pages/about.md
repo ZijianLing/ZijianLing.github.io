@@ -53,6 +53,9 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhou, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
   *arXiv, TDSC under review.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
+- **BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling**  
+  **Zijian Ling**, Jianbang Chen, Hongwei Li, Hongda Zhai, Man Zhou, Jun Feng, Zhengxiong Li, Qi Li, Qian Wang.  
+  *arXiv, TIFS under review.* ([PDF](https://arxiv.org/abs/2604.07071))
 - **Enhancing Data-Free Substitute Training for Black-Box Adversarial Attacks**  
   **Zijian Ling**, Wenyu Zhou, Yi Ouyang, Yuting Zhou, Man Zhouˆ.  
   In ***ICME'25**: IEEE International Conference on Multimedia and Expo, 2025.* ( [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11210162) )
@@ -72,7 +75,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 ---
 - **China National Scholarship** *(Rank 2, Top 1%)*, Ministry of Education of PRC, 2025
 - **First Prize of University Scholarship** ×4 *(Top 5%)*, 2021–2025
-- **Outstanding Graduate**, 2023
+- **Outstanding Graduate**, 2023, 2026
 - **National Competitive Innovation Challenge – Grand Prize** *(Top 5)*, Team Leader ( [Page](https://mp.weixin.qq.com/s/1WJexSk9zbB_pe2E9F3-Zw) )
 - **National Cybersecurity Innovation Competition – Third Prize**, Team Leader ( [Page](https://mp.weixin.qq.com/s/EI3OC8F70zXwIF2bF04Vzw) )
 - **National Cybersecurity Challenge Competition - Third Prize**, Team Leader
