@@ -78,7 +78,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 - **Outstanding Graduate**, 2023, 2026
 - **National Competitive Innovation Challenge – Grand Prize** *(Top 5)*, Team Leader ( [Page](https://mp.weixin.qq.com/s/1WJexSk9zbB_pe2E9F3-Zw) )
 - **National Cybersecurity Innovation Competition – Third Prize**, Team Leader ( [Page](https://mp.weixin.qq.com/s/EI3OC8F70zXwIF2bF04Vzw) )
-- **National Cybersecurity Challenge Competition - Third Prize**, Team Leader
+- **National Cybersecurity Challenge Competition – Third Prize**, Team Leader
 
 <section id="professional-services"></section>
 ## 🎓 Professional Services
