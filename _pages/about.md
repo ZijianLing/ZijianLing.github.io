@@ -49,7 +49,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 *(\* : Equal Contribution, ˆ : Corresponding Author)*
 - **Sirens’ Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**  
   **Zijian Ling\***, Pingyi Hu\*, Xiuyong Gao\*, Xiaojing Maˆ, Man Zhouˆ, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu.  
-  In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [Preview](https://arxiv.org/pdf/2512.23778) , [Website](https://swhisper-jailbreak.github.io/) )
+  In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [Preview](https://arxiv.org/pdf/2603.13847) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhou, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
   *arXiv, TDSC under review.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
