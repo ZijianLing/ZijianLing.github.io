@@ -73,9 +73,10 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 <section id="honors-and-awards"></section>
 ## 🎖 Honors & Awards
 ---
+- **Outstanding Graduate**, 2026
 - **China National Scholarship** *(Rank 2, Top 1%)*, Ministry of Education of PRC, 2025
 - **First Prize of University Scholarship** ×4 *(Top 5%)*, 2021–2025
-- **Outstanding Graduate**, 2023, 2026
+- **Outstanding Graduate, Outstanding Graduation Thesis Award**, 2023
 - **National Competitive Innovation Challenge – Grand Prize** *(Top 5)*, Team Leader ( [Page](https://mp.weixin.qq.com/s/1WJexSk9zbB_pe2E9F3-Zw) )
 - **National Cybersecurity Innovation Competition – Third Prize**, Team Leader ( [Page](https://mp.weixin.qq.com/s/EI3OC8F70zXwIF2bF04Vzw) )
 - **National Cybersecurity Challenge Competition – Third Prize**, Team Leader
@@ -97,7 +98,8 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 ## 📖 Educations
 ---
 - *Sep. 2026 - Aug. 2030 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://scholar.google.com.hk/citations?user=N3DjoZYAAAAJ&hl=zh-CN&oi=ao)
-- *Sep. 2023 - june 2026*, Master of Cyberspace Security, Huazhong University of Science and Technology, Supervisor: [Prof. Man Zhou](https://scholar.google.com.hk/citations?user=E7MXjIAAAAAJ&hl=zh-CN&oi=ao)
+- *Sep. 2023 - Jun. 2026*, Master of Cyberspace Security, Huazhong University of Science and Technology, Supervisor: [Prof. Man Zhou](https://scholar.google.com.hk/citations?user=E7MXjIAAAAAJ&hl=zh-CN&oi=ao)
+- *Sep. 2019 - Jun. 2023*, B.Eng. in Information Security, China University of Mining and Technology
 
 <!-- <section id="invited-talks"></section>
 ## 💬 Invited Talks
