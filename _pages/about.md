@@ -73,10 +73,11 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 <section id="honors-and-awards"></section>
 ## 🎖 Honors & Awards
 ---
-- **Outstanding Graduate**, 2026
+- **Outstanding Graduate (Master’s)**, 2026
 - **China National Scholarship** *(Rank 2, Top 1%)*, Ministry of Education of PRC, 2025
 - **First Prize of University Scholarship** ×4 *(Top 5%)*, 2021–2025
-- **Outstanding Graduate, Outstanding Graduation Thesis Award**, 2023
+- **Outstanding Graduate (Undergraduate)**, 2023
+- **Outstanding Graduation Thesis Award**, 2023
 - **National Competitive Innovation Challenge – Grand Prize** *(Top 5)*, Team Leader ( [Page](https://mp.weixin.qq.com/s/1WJexSk9zbB_pe2E9F3-Zw) )
 - **National Cybersecurity Innovation Competition – Third Prize**, Team Leader ( [Page](https://mp.weixin.qq.com/s/EI3OC8F70zXwIF2bF04Vzw) )
 - **National Cybersecurity Challenge Competition – Third Prize**, Team Leader
