@@ -51,10 +51,10 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
   **Zijian Ling\***, Pingyi Hu\*, Xiuyong Gao\*, Xiaojing Maˆ, Man Zhouˆ, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu.  
   In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_ling.pdf) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
-  **Zijian Ling**, Man Zhou, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
+  **Zijian Ling**, Man Zhouˆ, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
   *arXiv.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
 - **BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling**  
-  **Zijian Ling**, Jianbang Chen, Hongwei Li, Hongda Zhai, Man Zhou, Jun Feng, Zhengxiong Li, Qi Li, Qian Wang.  
+  **Zijian Ling**, Jianbang Chen, Hongwei Li, Hongda Zhai, Man Zhouˆ, Jun Feng, Zhengxiong Li, Qi Li, Qian Wang.  
   *arXiv.* ( [PDF](https://arxiv.org/abs/2604.07071) )
 - **Enhancing Data-Free Substitute Training for Black-Box Adversarial Attacks**  
   **Zijian Ling**, Wenyu Zhou, Yi Ouyang, Yuting Zhou, Man Zhouˆ.  
