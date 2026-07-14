@@ -49,7 +49,7 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 *(\* : Equal Contribution, ˆ : Corresponding Author)*
 - **Sirens’ Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**  
   **Zijian Ling\***, Pingyi Hu\*, Xiuyong Gao\*, Xiaojing Maˆ, Man Zhouˆ, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu.  
-  In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [Preview](https://arxiv.org/pdf/2603.13847) , [Website](https://swhisper-jailbreak.github.io/) )
+  In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_ling.pdf) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhou, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
   *arXiv.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
@@ -95,6 +95,7 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 - **TIFS** (IEEE Transactions on Information Forensics and Security) 
 - **TMC** (IEEE Transactions on Mobile Computing)
 
+<!--
 <section id="educations"></section>
 ## 📖 Educations
 ---
@@ -102,7 +103,7 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 - *Sep. 2023 - Jun. 2026*, Master of Cyberspace Security, Huazhong University of Science and Technology, Supervisor: [Prof. Man Zhou](https://scholar.google.com.hk/citations?user=E7MXjIAAAAAJ&hl=zh-CN&oi=ao)
 - *Sep. 2019 - Jun. 2023*, B.Eng. in Information Security, China University of Mining and Technology
 
-<!-- <section id="invited-talks"></section>
+<section id="invited-talks"></section>
 ## 💬 Invited Talks
 --- -->
 
