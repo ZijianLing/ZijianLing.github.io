@@ -48,14 +48,14 @@ I am Zijian Ling, a Ph.D student in the Department of Electrical and Electronic 
 ---
 *(\* : Equal Contribution, ˆ : Corresponding Author)*
 - **Sirens’ Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**  
-  **Zijian Ling\***, Pingyi Hu\*, Xiuyong Gao\*, Xiaojing Maˆ, Man Zhouˆ, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu.  
+  **Zijian Ling\***, Pingyi Hu\*, Xiuyong Gao\*, Xiaojing Maˆ, Man Zhouˆ, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu. 
   In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_ling.pdf) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhouˆ, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
-  *arXiv.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
+  *arXiv. Under TDSC revision* ( [PDF](https://arxiv.org/pdf/2512.23778) )
 - **BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling**  
   **Zijian Ling**, Jianbang Chen, Hongwei Li, Hongda Zhai, Man Zhouˆ, Jun Feng, Zhengxiong Li, Qi Li, Qian Wang.  
-  *arXiv.* ( [PDF](https://arxiv.org/abs/2604.07071) )
+  *arXiv. Under TDSC revision* ( [PDF](https://arxiv.org/abs/2604.07071) )
 - **Enhancing Data-Free Substitute Training for Black-Box Adversarial Attacks**  
   **Zijian Ling**, Wenyu Zhou, Yi Ouyang, Yuting Zhou, Man Zhouˆ.  
   In ***ICME'25**: IEEE International Conference on Multimedia and Expo, 2025.* ( [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11210162) )
@@ -99,7 +99,7 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 <section id="educations"></section>
 ## 📖 Educations
 ---
-- *Sep. 2026 - Aug. 2030 (expected)*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://scholar.google.com.hk/citations?user=N3DjoZYAAAAJ&hl=zh-CN&oi=ao)
+- *Sep. 2026 - now*, Ph.D., The Hong Kong Polytechnic University, Supervisor: [Prof. Haibo Hu](https://scholar.google.com.hk/citations?user=N3DjoZYAAAAJ&hl=zh-CN&oi=ao)
 - *Sep. 2023 - Jun. 2026*, Master of Cyberspace Security, Huazhong University of Science and Technology, Supervisor: [Prof. Man Zhou](https://scholar.google.com.hk/citations?user=E7MXjIAAAAAJ&hl=zh-CN&oi=ao)
 - *Sep. 2019 - Jun. 2023*, B.Eng. in Information Security, China University of Mining and Technology
 
