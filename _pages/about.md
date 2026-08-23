@@ -110,9 +110,5 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 ## 🗺️ Visitor Map
 ---
 <div style="text-align:center;">
-  <div style="height:260px; overflow:hidden;">
-    <div style="transform:scale(0.5); transform-origin:top center;">
-      <script id="clustrmaps" src="https://clustrmaps.com/map_v2.js?d=ETd_kxENrBa0t-iIjDyK3Y8ypI7I4Vn9N0MFXso1OjM&cl=ffffff&w=a"></script>
-    </div>
-  </div>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=kiLx-G_5Z9DmmOD5kKcr01UBdCVl2bijaXIOTiolpBk&cl=ffffff&w=a"></script>
 </div>
