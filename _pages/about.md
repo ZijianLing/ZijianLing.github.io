@@ -107,8 +107,10 @@ I sincerely appreciate the opportunity to contribute to the academic community t
 ## 💬 Invited Talks
 --- -->
 
+<!--
 ## 🗺️ Visitor Map
 ---
 <div style="text-align:center;">
   <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=kiLx-G_5Z9DmmOD5kKcr01UBdCVl2bijaXIOTiolpBk&cl=ffffff&w=a"></script>
 </div>
+-->
