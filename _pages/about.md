@@ -39,7 +39,7 @@ My research interests lie in **Embodied AI Security and IoT/CPS Security, with a
 <section id="news"></section>
 ## 🔥 News
 ---
-- *2026.09*: 🎉 My first-author paper SyncGait has been accepted by IEEE TDSC! We present a secure and user-friendly mutual authentication system for drone delivery by leveraging implicit gait behaviors to bind the user, smartphone, and drone over long distances.
+- *2026.09*: 🎉 My first-author paper **SyncGait** has been accepted by IEEE TDSC! We present a secure and user-friendly mutual authentication system for drone delivery by leveraging implicit gait behaviors to bind the user, smartphone, and drone over long distances.
 - *2025.12*: 🤖 My first-author paper **Sirens’ Whisper** has been accepted by **USENIX Security'26**! We reveal a previously unexplored physical-world side channel in voice-driven LLMs, showing that near-ultrasonic signals can be exploited to perform inaudible and robust jailbreak attacks in real-world settings.
 - *2025.05*: 👋 Our paper **CapHandAuth** has been accepted by **SenSys'25**! A new SOTA for capacitive touchscreen-based hand authentication, achieving high accuracy and strong robustness. Congratulations to Xiaojing.
 - *2025.03*: 🔥 My first-author paper **EDST** has been accepted by **ICME'25**! We introduce a query-efficient data-free black-box attack by aligning the substitute training with the attack process itself.
@@ -53,7 +53,7 @@ My research interests lie in **Embodied AI Security and IoT/CPS Security, with a
   In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_ling.pdf) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhouˆ, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
-  In ***IEEE TDSC****: IEEE Transactions on Dependable and Secure Computing, 2026.* ( [PDF](https://arxiv.org/pdf/2512.23778) )
+  IEEE Transactions on Dependable and Secure Computing (TDSC), 2026. ( [To Appear](https://arxiv.org/pdf/2512.23778) )
 - **BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling**  
   **Zijian Ling**, Jianbang Chen, Hongwei Li, Hongda Zhai, Man Zhouˆ, Jun Feng, Zhengxiong Li, Qi Li, Qian Wang.  
   *arXiv. Under TDSC revision* ( [PDF](https://arxiv.org/abs/2604.07071) )
