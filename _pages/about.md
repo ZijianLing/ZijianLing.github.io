@@ -53,7 +53,7 @@ My research interests lie in **Embodied AI Security and IoT/CPS Security, with a
   In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_ling.pdf) , [Website](https://swhisper-jailbreak.github.io/) )
 - **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhouˆ, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
-  IEEE Transactions on Dependable and Secure Computing (TDSC), 2026. ( [To Appear](https://arxiv.org/pdf/2512.23778) )
+  ***IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2026.* ( [To Appear](https://arxiv.org/pdf/2512.23778) )
 - **BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling**  
   **Zijian Ling**, Jianbang Chen, Hongwei Li, Hongda Zhai, Man Zhouˆ, Jun Feng, Zhengxiong Li, Qi Li, Qian Wang.  
   *arXiv. Under TDSC revision* ( [PDF](https://arxiv.org/abs/2604.07071) )
