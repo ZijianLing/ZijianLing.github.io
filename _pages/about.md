@@ -39,7 +39,7 @@ My research interests lie in **Embodied AI Security and IoT/CPS Security, with a
 <section id="news"></section>
 ## 🔥 News
 ---
-- *2026.09*: 🎉 My first-author paper **SyncGait** has been accepted by IEEE TDSC! We present a secure and user-friendly mutual authentication system for drone delivery by leveraging implicit gait behaviors to bind the user, smartphone, and drone over long distances.
+- *2026.09*: 🎉 My first-author paper **SyncGait** has been accepted by **IEEE TDSC**! We present a secure and user-friendly mutual authentication system for drone delivery by leveraging implicit gait behaviors to bind the user, smartphone, and drone over long distances.
 - *2025.12*: 🤖 My first-author paper **Sirens’ Whisper** has been accepted by **USENIX Security'26**! We reveal a previously unexplored physical-world side channel in voice-driven LLMs, showing that near-ultrasonic signals can be exploited to perform inaudible and robust jailbreak attacks in real-world settings.
 - *2025.05*: 👋 Our paper **CapHandAuth** has been accepted by **SenSys'25**! A new SOTA for capacitive touchscreen-based hand authentication, achieving high accuracy and strong robustness. Congratulations to Xiaojing.
 - *2025.03*: 🔥 My first-author paper **EDST** has been accepted by **ICME'25**! We introduce a query-efficient data-free black-box attack by aligning the substitute training with the attack process itself.
