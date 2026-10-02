@@ -51,7 +51,7 @@ My research interests lie in **Embodied AI Security and IoT/CPS Security, with a
 - **Sirens’ Whisper: Inaudible Near-Ultrasonic Jailbreaks of Speech-Driven LLMs**  
   **Zijian Ling\***, Pingyi Hu\*, Xiuyong Gao\*, Xiaojing Maˆ, Man Zhouˆ, Jun Feng, Songfeng Lu, Dongmei Zhang, Bin Benjamin Zhu. 
   In ***USENIX Security'26**: USENIX Security Symposium, 2026.* ( [PDF](https://www.usenix.org/system/files/conference/usenixsecurity26/sec26_prepub_ling.pdf) , [Website](https://swhisper-jailbreak.github.io/) )
-- **SyncGait: Secure and User-friendly Mutual Authentication for Drone Delivery via Implicit Gait Behaviors**  
+- **Robust and Secure Long-Distance Authentication for Drone Delivery via Implicit Gait Behaviors**  
   **Zijian Ling**, Man Zhouˆ, Hongda Zhai, Yating Huang, Lingchen Zhao, Qi Li, Chao Shen, Qian Wang.  
   ***IEEE Transactions on Dependable and Secure Computing (TDSC)**, 2026.* ( [PDF](https://ieeexplore.ieee.org/abstract/document/11705651) )
 - **BioMoTouch: Touch-Based Behavioral Authentication via Biometric-Motion Interaction Modeling**  
